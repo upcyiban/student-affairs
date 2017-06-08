@@ -8,3 +8,6 @@ body{
 }
 .panel-heading{text-align: center;}
 span{display: inline-block;line-height: 40px;}
+@media only screen and (max-width: 999px){
+    ul,ol{padding-left: 20px;}
+}
